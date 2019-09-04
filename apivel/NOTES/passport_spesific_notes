@@ -1,0 +1,6 @@
+Dont do this line untill you have keys in a file
+
+
+//Passport::loadKeysFrom('/secret-keys/oauth');
+
+
